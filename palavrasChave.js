@@ -1,6 +1,9 @@
 exports.palavraChave = [
     { atividade: "simples de API", value: 1 },
     { atividade: "média de API", value: 3 },
+    { atividade: "complexa em API", value: 6 },
+    { atividade: "simples em API", value: 1 },
+    { atividade: "média em API", value: 3 },
     { atividade: "complexa de API", value: 6 },
     { atividade: "simples de console", value: 3 },
     { atividade: "média de console", value: 8 },
