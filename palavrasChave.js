@@ -1,17 +1,42 @@
 exports.palavraChave = [
+    //API
     { atividade: "simples de API", value: 1 },
     { atividade: "média de API", value: 3 },
     { atividade: "complexa em API", value: 6 },
     { atividade: "simples na API", value: 1 },
-    { atividade: "API simples", value: 1 },
     { atividade: "média na API", value: 3 },
     { atividade: "complexa na API", value: 6 },
     { atividade: "simples em API", value: 1 },
     { atividade: "média em API", value: 3 },
     { atividade: "complexa de API", value: 6 },
+    { atividade: "API simples", value: 1 },
+    { atividade: "API média", value: 3 },
+    { atividade: "API complexa", value: 6 },
+    { atividade: "simples de api", value: 1 },
+    { atividade: "média de api", value: 3 },
+    { atividade: "complexa em api", value: 6 },
+    { atividade: "simples na api", value: 1 },
+    { atividade: "média na api", value: 3 },
+    { atividade: "complexa na api", value: 6 },
+    { atividade: "simples em api", value: 1 },
+    { atividade: "média em api", value: 3 },
+    { atividade: "complexa de api", value: 6 },
+    { atividade: "api simples", value: 1 },
+    { atividade: "api média", value: 3 },
+    { atividade: "api complexa", value: 6 },
+
+    //Console
     { atividade: "simples de console", value: 3 },
     { atividade: "média de console", value: 8 },
     { atividade: "complexa de console", value: 12 },
+    { atividade: "simples no console", value: 3 },
+    { atividade: "média no console", value: 8 },
+    { atividade: "complexa no console", value: 12 },
+    { atividade: "simples na console", value: 3 },
+    { atividade: "média na console", value: 8 },
+    { atividade: "complexa na console", value: 12 },
+
+    //Procedure
     { atividade: "simples de procedure", value: 1 },
     { atividade: "média de procedure", value: 4 },
     { atividade: "procedure de complexidade média", value: 4 },
@@ -19,6 +44,21 @@ exports.palavraChave = [
     { atividade: "simples na procedure", value: 1 },
     { atividade: "média na procedure", value: 4 },
     { atividade: "complexa na procedure", value: 8 },
+    { atividade: "procedure simples", value: 1 },
+    { atividade: "procedure média", value: 4 },
+    { atividade: "procedure complexa", value: 8 },
+    { atividade: "simples de Procedure", value: 1 },
+    { atividade: "média de Procedure", value: 4 },
+    { atividade: "Procedure de complexidade média", value: 4 },
+    { atividade: "complexa de Procedure", value: 8 },
+    { atividade: "simples na Procedure", value: 1 },
+    { atividade: "média na Procedure", value: 4 },
+    { atividade: "complexa na Procedure", value: 8 },
+    { atividade: "Procedure simples", value: 1 },
+    { atividade: "Procedure média", value: 4 },
+    { atividade: "Procedure complexa", value: 8 },
+
+    //Tabela
     { atividade: "simples de tabela", value: 1 },
     { atividade: "simples na tabela", value: 1 },
     { atividade: "tabela simples", value: 1 },
@@ -27,6 +67,14 @@ exports.palavraChave = [
     { atividade: "média na tabela", value: 3 },
     { atividade: "tabela de complexidade média", value: 3 },
     { atividade: "complexa de tabela", value: 6 },
+    { atividade: "simples na tabela", value: 1 },
+    { atividade: "média na tabela", value: 3 },
+    { atividade: "complexa na tabela", value: 6 },
+    { atividade: "tabela simples", value: 1 },
+    { atividade: "tabela média", value: 3 },
+    { atividade: "tabela complexa", value: 6 },
+
+    //Tela e Formulário
     { atividade: "simples de formulário", value: 1 },
     { atividade: "web simples", value: 1 },
     { atividade: "formulário simples", value: 1 },
@@ -34,35 +82,67 @@ exports.palavraChave = [
     { atividade: "média de formulário", value: 3 },
     { atividade: "web média", value: 3 },
     { atividade: "complexa de formulário", value: 6 },
-    { atividade: "simples na WEB", value: 1 },
-    { atividade: "média na WEB", value: 3 },
-    { atividade: "complexa na WEB", value: 6 },
     { atividade: "simples no formulário", value: 1 },
     { atividade: "média no formulário", value: 3 },
     { atividade: "complexa no formulário", value: 6 },
+    { atividade: "simples de tela", value: 1 },
+    { atividade: "média de tela", value: 3 },
+    { atividade: "complexa de tela", value: 6 },
+
+    //Web 
+    { atividade: "simples na WEB", value: 1 },
+    { atividade: "média na WEB", value: 3 },
+    { atividade: "complexa na WEB", value: 6 },
+
+    //JOB
     { atividade: "simples de job", value: 2 },
     { atividade: "média de job", value: 5 },
     { atividade: "complexa de job", value: 10 },
     { atividade: "simples no job", value: 2 },
     { atividade: "média no job", value: 5 },
     { atividade: "complexa no job", value: 10 },
+    { atividade: "simples de JOB", value: 2 },
+    { atividade: "média de JOB", value: 5 },
+    { atividade: "complexa de JOB", value: 10 },
+    { atividade: "simples no JOB", value: 2 },
+    { atividade: "média no JOB", value: 5 },
+    { atividade: "complexa no JOB", value: 10 },
+
+    //Trigger
     { atividade: "simples de trigger", value: 1 },
     { atividade: "média de trigger", value: 3 },
     { atividade: "complexa de trigger", value: 6 },
+
+    //Função
     { atividade: "simples de função", value: 1 },
     { atividade: "média de função", value: 3 },
     { atividade: "complexa de função", value: 6 },
     { atividade: "simples na função", value: 1 },
     { atividade: "média na função", value: 3 },
     { atividade: "complexa na função", value: 6 },
+
+    //Script
     { atividade: "simples de script", value: 1 },
     { atividade: "média de script", value: 3 },
     { atividade: "complexa de script", value: 6 },
+    { atividade: "Script simples", value: 1 },
+    { atividade: "Script médio", value: 3 },
+    { atividade: "Script complexo", value: 6 },
+
+    //Modelagem
     { atividade: "simples de modelagem", value: 1 },
     { atividade: "média de modelagem", value: 3 },
     { atividade: "complexa de modelagem", value: 6 },
+    { atividade: "modelagem simples", value: 1 },
+    { atividade: "modelagem média", value: 3 },
+    { atividade: "modelagem complexa", value: 6 },
+
+    //Relatório
     { atividade: "simples do relatório", value: 3 },
     { atividade: "média do relatório", value: 8 },
     { atividade: "complexa do relatório", value: 12 },
+    { atividade: "simples no relatório", value: 3 },
+    { atividade: "média no relatório", value: 8 },
+    { atividade: "complexa no relatório", value: 12 },
     { atividade: "PDF de média", value: 8 }
 ];
